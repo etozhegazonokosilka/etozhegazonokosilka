@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm a Full-Stack Developer 👋</h1>
+<p align="center">
+  <strong>Русский</strong> · <a href="./README_EN.md">English</a>
+</p>
+
+<h1 align="center">Привет! Я Full-Stack разработчик 👋</h1>
 
 <p align="center">
-  I build web applications, APIs, automation tools and AI-powered solutions.
+  Разрабатываю веб-приложения, API, системы автоматизации и решения с использованием AI.
 </p>
 
 <p align="center">
@@ -10,28 +14,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Обо мне
 
-I'm a Full-Stack Developer with commercial development experience.
+Я Full-Stack разработчик с опытом коммерческой разработки.
 
-I work on both backend and frontend development, create business automation tools, integrate external services and build applications that solve real-world problems.
+Работаю как с backend, так и с frontend: создаю бизнес-приложения, API, внутренние системы, инструменты автоматизации и интеграции с внешними сервисами.
 
-Most of my commercial projects are stored in private repositories due to confidentiality agreements. I am currently preparing public demo projects and technical case studies.
+Также занимаюсь обработкой данных, веб-парсингом и прикладными задачами компьютерного зрения.
 
-* 🔧 Building full-stack web applications
-* ⚙️ Developing APIs and automation tools
-* 🤖 Creating Telegram bots and service integrations
-* 🕷 Working with web scraping and data processing
-* 🧠 Exploring applied AI and computer vision
-* 📚 Continuously improving my development and software architecture skills
-* 🌍 Interested in open-source development
-* 💼 Open to job opportunities and paid projects
+Большая часть моих коммерческих проектов находится в приватных репозиториях из-за соглашений о конфиденциальности. В публичном профиле я размещаю очищенные portfolio-версии проектов без клиентских данных, секретов и production-конфигурации.
+
+* 🔧 Разрабатываю Full-Stack веб-приложения
+* ⚙️ Создаю REST API и системы автоматизации
+* 🤖 Разрабатываю Telegram-ботов и интеграции
+* 🕷 Работаю с веб-парсингом и обработкой данных
+* 🧠 Использую AI и Computer Vision в прикладных задачах
+* 🏗 Проектирую архитектуру frontend- и backend-приложений
+* 🌍 Интересуюсь open-source разработкой
+* 💼 Открыт к работе и оплачиваемым проектам
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технологии
 
-### Languages
+### Языки
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
@@ -43,15 +49,25 @@ Most of my commercial projects are stored in private repositories due to confide
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
 
-### Backend and Automation
+### Backend и автоматизация
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-2E8B57?style=flat-square)
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)
 
-### AI and Computer Vision
+### Данные и инфраструктура
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### AI и Computer Vision
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
 ![OpenCLIP](https://img.shields.io/badge/OpenCLIP-FF6F00?style=flat-square)
@@ -59,67 +75,81 @@ Most of my commercial projects are stored in private repositories due to confide
 
 ---
 
-## 🚀 What I Do
+## 🚀 Что я разрабатываю
 
-I can develop:
-
-* Full-stack web applications
-* Backend APIs and integrations
-* Responsive React interfaces
-* Business automation tools
-* CRM and internal management systems
-* Web parsers and data processing pipelines
-* Telegram bots
-* AI-assisted image and video processing applications
+* Full-Stack веб-приложения
+* Backend API и интеграции
+* Адаптивные интерфейсы на React
+* CRM и внутренние системы управления
+* Инструменты автоматизации бизнес-процессов
+* Веб-парсеры и системы обработки данных
+* Telegram-ботов
+* Приложения реального времени на WebSocket
+* Решения для обработки изображений и видео с использованием AI
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Избранные проекты
 
 ### [Bag Price Analyzer API](https://github.com/etozhegazonokosilka/bag-price-analyzer)
 
-AI-assisted API for estimating the market value of luxury handbags from a photo.
+API для оценки рыночной стоимости люксовых сумок по фотографии.
 
-The system combines Google Lens search, marketplace-specific web scraping,
-AI-based candidate filtering, OpenCLIP visual similarity and robust price analysis.
+Система объединяет поиск через Google Lens, парсеры маркетплейсов, AI-фильтрацию кандидатов, визуальное сравнение через OpenCLIP и устойчивый анализ цен.
 
-**Main technologies:**
+**Основные технологии:**
 
 `Python` · `Flask` · `SerpAPI` · `OpenCLIP` · `Redis` · `RQ` · `Web Scraping`
 
-> This is a sanitized portfolio version of a commercial project.
----
-
-## 🌱 Current Goals
-
-* Publish several public demo projects
-* Contribute to open-source projects
-* Improve testing and application architecture skills
-* Collaborate with other developers
-* Find interesting paid development opportunities
+> Очищенная portfolio-версия коммерческого проекта.
 
 ---
 
-## 🤝 Open to Collaboration
+### [Mafia Web Game](https://github.com/etozhegazonokosilka/mafia-game)
 
-I'm interested in:
+Многопользовательская браузерная версия игры «Мафия» с комнатами, скрытыми ролями, чатом и игровыми фазами в реальном времени.
 
-* Full-stack development
-* Python and TypeScript projects
-* Automation tools
-* Developer tools
-* Computer vision
-* AI-powered applications
-* Open-source contributions
+Приложение включает регистрацию, профили игроков, статистику, систему уровней, таблицу лидеров, административную панель и синхронизацию состояния через WebSocket.
+
+**Основные технологии:**
+
+`Python` · `FastAPI` · `React` · `TypeScript` · `Tailwind CSS` · `WebSocket` · `SQLAlchemy`
+
+> Очищенная portfolio-версия проекта без production-данных и секретов.
 
 ---
 
-## 📫 Contact Me
+## 🌱 Текущие цели
 
-* Telegram: `@gazonokosilkins`
+* Развивать публичное портфолио
+* Участвовать в open-source проектах
+* Улучшать архитектуру и тестирование приложений
+* Работать над интересными Full-Stack и AI-проектами
+* Найти команду или оплачиваемые проекты для долгосрочного сотрудничества
+
+---
+
+## 🤝 Открыт к сотрудничеству
+
+Мне интересны:
+
+* Full-Stack разработка
+* Python и TypeScript
+* React и frontend-приложения
+* Backend API и интеграции
+* Автоматизация
+* Computer Vision
+* AI-powered приложения
+* Open-source проекты
+
+---
+
+## 📫 Связаться со мной
+
+* Telegram: [@gazonokosilkins](https://t.me/gazonokosilkins)
 
 ---
 
 <p align="center">
-  <strong>Open to work, collaboration and open-source contributions.</strong>
+  <strong>Открыт к работе, сотрудничеству и участию в open-source проектах.</strong>
 </p>
