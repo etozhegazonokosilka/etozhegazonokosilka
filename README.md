@@ -74,6 +74,22 @@ I can develop:
 
 ---
 
+## ⭐ Featured Project
+
+### [Bag Price Analyzer API](https://github.com/etozhegazonokosilka/bag-price-analyzer)
+
+AI-assisted API for estimating the market value of luxury handbags from a photo.
+
+The system combines Google Lens search, marketplace-specific web scraping,
+AI-based candidate filtering, OpenCLIP visual similarity and robust price analysis.
+
+**Main technologies:**
+
+`Python` · `Flask` · `SerpAPI` · `OpenCLIP` · `Redis` · `RQ` · `Web Scraping`
+
+> This is a sanitized portfolio version of a commercial project.
+---
+
 ## 🌱 Current Goals
 
 * Publish several public demo projects
